@@ -2,7 +2,7 @@
 # **Buenas, me llamo Tomas Andres Arin**
 **Legajo**: 209613-4
 
-  <img src = "https://github.com/user-attachments/assets/3489c81d-1452-40bb-9c27-99190d1e3f3a" width = "150"/>
+  <img src = "https://github.com/user-attachments/assets/3489c81d-1452-40bb-9c27-99190d1e3f3a" width="200" height="auto">
 
 ## Algo sobre mi
 Soy una persona curiosa y apasionada por aprender constantemente. Me gusta viajar y conocer nuevos lugares, ya que considero que cada experiencia suma una perspectiva distinta. Disfruto mucho de la música, que en la cual forma parte de mi día a día y muchas veces acompaña mis momentos de concentración o desconexión.
